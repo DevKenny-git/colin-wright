@@ -148,7 +148,7 @@ footer hr {
 
 @media (max-width: 600px) {
     .container {
-        margin: 3rem 5rem;
+        margin: 2rem;
         font-size: 15px;
     }
 }
